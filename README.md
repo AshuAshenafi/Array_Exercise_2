@@ -1,0 +1,1 @@
+"#This projects has five exercises 1. String Revers 2. Remove duplicate integers from array 3. display pairs whose sum is 13 from two different pairs 4. From an array of ten integers even and odd numbers and display separately 5. Parsing of a string and display number of chars each word has." 
